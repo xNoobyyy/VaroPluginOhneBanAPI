@@ -1,4 +1,4 @@
-##Modifizierte Version
+## Modifizierte Version
 
 ## Varo Plugin by Cuuky 
 <img src="https://i.imgur.com/AnIMIbN.png" align="middle">
